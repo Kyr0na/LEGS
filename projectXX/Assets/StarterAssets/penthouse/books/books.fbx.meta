@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 710cea648445f914d851bf084f1b83dc
+guid: 17ca77e96f3732b4b9f58f018f4f43b1
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -8,27 +8,27 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: book1
-    second: {fileID: 2100000, guid: b5efa1f2a786bf047a401530fcc6e9bf, type: 2}
+    second: {fileID: 2100000, guid: caeb58895dd23944bb34a84ad45b4e8d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: book2
-    second: {fileID: 2100000, guid: 2f6db5287c2d95049b4c1985d6ce8cbd, type: 2}
+    second: {fileID: 2100000, guid: f5f030a616e5d2543b7037c86d50c810, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: book3
-    second: {fileID: 2100000, guid: b2b8e8e376c062f4086742565b1e00ba, type: 2}
+    second: {fileID: 2100000, guid: 6cc843b6f6f506d46aa9f745bcc8b1b9, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: book4
-    second: {fileID: 2100000, guid: eb7d09cde22e0fd418f9f3b2a9c976a1, type: 2}
+    second: {fileID: 2100000, guid: 0fb6db1556811a947a1d90d95664411b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: paper
-    second: {fileID: 2100000, guid: 02613790adf24424598d18586d8f6fbf, type: 2}
+    second: {fileID: 2100000, guid: ba0b8aef2d77e274e901de8bd2370138, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
